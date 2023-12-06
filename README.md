@@ -1,5 +1,7 @@
-### Hi there 👋
+### Greetings, everyone! My name is Diego De Pablo, and I'm currently a health engineering student (a field that encompasses aspects of biomedical engineering and systems engineering) with a focus on bioinformatics. As an aspiring bioinformatics professional, I'm passionate about learning and expanding my knowledge in various programming languages, including Python, MATLAB, Java, and R. While completing my university education, I aim to stay actively involved in programming and engage in more direct interactions with projects, challenges, and the work of others. I seek to complement my academic learning with hands-on experience and gain both technical skills and soft skills that enhance my professional profile and facilitate teamwork.🫡😄
 
+I eagerly anticipate receiving assistance in the challenge repertoires, where I seek to delve beyond finding a mere solution and explore the most effective approaches to solving the challenge by employing appropriate data structures. I'm also in the process of acclimating to GitHub, and I would be deeply grateful for any guidance you can provide me (ง︡'-'︠)ง
+my countries: 🇪🇸, 🇻🇪, and 🇮🇹
 <!--
 **Diegodepab/Diegodepab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,7 +1,7 @@
 ### Greetings, everyone!! 
-My name is Diego De Pablo. I'm currently a health engineering student (a field that encompasses aspects of biomedical engineering and systems engineering) with a focus on bioinformatics. As an aspiring bioinformatics professional. 
+My name is Diego De Pablo. I'm currently a health engineering student (a field that encompasses aspects of biomedical and systems engineering) with a focus on bioinformatics. 
 
-I'm passionate about learning and expanding my knowledge in various programming languages, including Python, MATLAB, Java, and R. While completing my university education. (ง︡'-'︠)ง
+As an aspiring bioinformatics professional. I'm passionate about learning and expanding my knowledge in various programming languages, including Python, MATLAB, Java, and R. While completing my university education. (ง︡'-'︠)ง
 
 I aim to stay actively involved in programming and engage in more direct interactions with projects, challenges, and the work of others. I seek to complement my academic learning with hands-on experience and gain both technical skills and soft skills that enhance my professional profile and facilitate teamwork.🫡😄
 

@@ -12,8 +12,7 @@ I aim to stay actively involved in programming and engage in more direct interac
     <img src="https://skillicons.dev/icons?i=py,java,r,matlab,cs,git,sklearn,ubuntu" />
   </a>
 </p>
-<!--
-**Diegodepab/Diegodepab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-I eagerly anticipate receiving assistance in the challenge repertoires, where I seek to delve beyond finding a mere solution and explore the most effective approaches to solving the challenge by employing appropriate data structures. I'm also in the process of acclimating to GitHub, and I would be deeply grateful for any guidance you can provide me (ง︡'-'︠)ง
-Here are some ideas to get you started:
+
+
+
 ![plantilla banner yt jpg(1)](https://github.com/Diegodepab/Diegodepab/assets/91531665/cc7a6c21-c023-496f-8370-d4ee03aa7529)

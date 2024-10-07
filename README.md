@@ -21,12 +21,10 @@ I aim to stay actively involved in programming and engage in more direct interac
 	<a href="https://github.com/Diegodepab"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
-## My portfolio :)
+## My portfolio 
 
 <div align="center">
   <a href=https://Diegodepab.github.io >
-    <img src="https://img.shields.io/badge/Visit%20My-Portfolio-black?style=for-the-badge&logo=appveyor" style="width: 25vw; height: auto;" />
+    <img src="https://github.com/Diegodepab/Diegodepab/assets/91531665/686270bd-2053-4656-bb69-54d6bb2dab6e" style="width: 75vw; height: auto;" />
   </a>
 </div>
-
-![plantilla banner yt jpg(1)](https://github.com/Diegodepab/Diegodepab/assets/91531665/686270bd-2053-4656-bb69-54d6bb2dab6e)

@@ -9,7 +9,7 @@ I aim to stay actively involved in programming and engage in more direct interac
 ## Technologies That I Know👨🏻‍💻
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,r,matlab,cs,git,sklearn,linux" />
+    <img src="https://skillicons.dev/icons?i=py,java,r,matlab,linux" />
   </a>
 </p>
 

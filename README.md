@@ -21,7 +21,7 @@ I aim to stay actively involved in programming and engage in more direct interac
 	<a href="https://github.com/Diegodepab"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
-## My portfolio 
+## [My portfolio ](https://Diegodepab.github.io)
   <a href=https://Diegodepab.github.io >
     <img src="https://github.com/user-attachments/assets/ea4b4553-6a71-4182-ba5d-6f1e43643209" style="width: 75vw; height: auto;" />
   </a>

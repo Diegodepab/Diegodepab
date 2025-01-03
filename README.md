@@ -23,8 +23,8 @@ I aim to stay actively involved in programming and engage in more direct interac
 
 ## My portfolio 
 
-<div align="center">
+
   <a href=https://Diegodepab.github.io >
-    <img src="https://github.com/Diegodepab/Diegodepab/assets/91531665/686270bd-2053-4656-bb69-54d6bb2dab6e" style="width: 75vw; height: auto;" />
+    <img src="https://github.com/user-attachments/assets/adb8cc4d-3799-4963-a5bc-4f722efb97d1" style="width: 75vw; height: auto;" />
   </a>
 </div>

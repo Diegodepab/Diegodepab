@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D113&background=2400001F&center=true&vCenter=true&random=false&width=435&lines=Bioinformatics+Engineer;Diego+De+Pablo;I%E2%80%99ll+support+you+either+way!!!)](https://git.io/typing-svg)
 
 
-My name is **Diego De Pablo**. I'm currently a *health engineering student* (a field that encompasses aspects of biomedical and systems engineering) with a focus on bioinformatics.🌱 
+My name is **Diego De Pablo**. I'm currently a *health engineering student* (a field that encompasses aspects of biomedical and software engineering) with a focus on bioinformatics.🌱 
 
 I aim to stay actively involved in programming and engage in more direct interactions with projects, challenges, and the work of others. I seek to complement my academic learning with hands-on experience and gain both technical skills and soft skills that enhance my professional profile and facilitate teamwork.😄
 
@@ -22,9 +22,7 @@ I aim to stay actively involved in programming and engage in more direct interac
 </p>
 
 ## My portfolio 
-
-
   <a href=https://Diegodepab.github.io >
-    <img src="https://github.com/user-attachments/assets/adb8cc4d-3799-4963-a5bc-4f722efb97d1" style="width: 75vw; height: auto;" />
+    <img src="https://github.com/user-attachments/assets/ea4b4553-6a71-4182-ba5d-6f1e43643209" style="width: 75vw; height: auto;" />
   </a>
 </div>

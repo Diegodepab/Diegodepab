@@ -1,5 +1,4 @@
 ### Greetings, everyone!! 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D113&background=2400001F&center=true&vCenter=true&random=false&width=435&lines=Bioinformatics+Engineer;Diego+De+Pablo;I%E2%80%99ll+support+you+either+way!!!)](https://git.io/typing-svg)
 
 
 My name is **Diego De Pablo**. I'm currently a *health engineering student* (a field that encompasses aspects of biomedical and software engineering) with a focus on bioinformatics.🌱 

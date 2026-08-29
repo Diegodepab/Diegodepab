@@ -20,8 +20,8 @@ I aim to stay actively involved in programming and engage in more direct interac
 	<a href="https://github.com/Diegodepab"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
-## [My portfolio ](https://Diegodepab.github.io)
-  <a href=https://Diegodepab.github.io >
+## [My portfolio ]([https://Diegodepab.github.io](https://diegodepablo.vercel.app/))
+  <a href=[https://Diegodepab.github.io](https://diegodepablo.vercel.app/) >
     <img src="https://github.com/user-attachments/assets/cfc6036e-6b3e-4a3f-9ec0-139f8d9e85b9" style="width: 75vw; height: auto;" />
   </a>
 </div>

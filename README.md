@@ -7,7 +7,7 @@ As a full-stack developer, I build robust web applications, data pipelines, and 
 ## Technologies & Tools 👨🏻‍💻
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,ts,react,nextjs,vite,linux,godot,java" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=py,ts,react,linux,godot,java" alt="Tech Stack" />
   </a>
 </p>
 
